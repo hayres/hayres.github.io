@@ -15,8 +15,8 @@ layout: default
           <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
         </h2>
         Author: {{post.author}}<br/>
-        {{post:date}}
-        {{ post.content | truncatewords 250}}
+        {{post.date}}
+        {{ post.content | truncatewords : 100}}
       </li>
     {% endfor %}
   </ul>
