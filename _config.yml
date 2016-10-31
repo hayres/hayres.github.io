@@ -22,6 +22,9 @@ image_url: "/assets/images/"
 markdown: kramdown
 
 
-
+exclude:
+  - "node_modules/"
+  - "package.json"
+  - "Gruntfile.js"
 
 
