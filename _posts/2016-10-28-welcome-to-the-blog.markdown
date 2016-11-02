@@ -2,11 +2,13 @@
 layout: post
 title:  "Beginnings!"
 date:   2016-10-28 04:55:18 +0100
-categories: blog update
+categories: blog
 author: Henry Ayres
 description: A welcome to my blog
 ---
-I have taken part in many outdoor pastimes and sports over the years and a move to the South Coast (New Forest) and the kids getting a bit older have enabled a whole new world of getting outside.  Shortly after we moved I discovered I had a high blood pressure problem and also started getting palpitations.  A large and permanent lifestyle change in diet and ethos was also required.
+I have taken part in many outdoor pastimes and sports over the years and a move to the South Coast (New Forest) and the kids getting a bit older have enabled a whole new world of getting outside.  
+Shortly after we moved I discovered I had a high blood pressure problem. Something I discovered was pretty standard for 40 somthing desk bound guys.
+A large and permanent lifestyle change in diet and ethos was required.
 
 The year started with a new gang to go cycling with in the road we had moved to.  This cycling is a little bit nuts.  Every Wednesday evening we meet at 8pm and head out into the forest. 20 miles later we reward ourselves with a trip to the pub to replace some of the lost calories.  Some of these rides are legendary.  
 

@@ -31,8 +31,30 @@ However, there are a number of things slightly different.
 * There is only one bull in the herd of 47 cows and calves. 
 * It was Cornwall in late October not July in Northern Spain.
 * there were no spectators apart from a group of lucky Welsh Farmers on a coach trip. 
-* there was 47 mixed happy cattle instead of 6 very angrey fighting bulls.
+* there was 47 mixed happy cattle instead of 6 very angry fighting bulls.
 * the cattle were just being moved to a new pasture. Not to the bullring for the nights entertainment.
 
-First we rounded the cattle uyp to the top of the lighthouse field.  Then at the appropriate moment the gates were swung open an I started running down the road to ward the new field.
-I was a little concerned at first, there were some big cattle with some big horns, but it soon transpired that they where actually not that fast and definitely not very angry.
+First we rounded the cattle uyp to the top of the lighthouse field.  Then at the appropriate moment the gates were swung open an I started running down the road toward the new field.
+I was a little concerned at first, there were some big cattle with some big horns, but it soon transpired that they 
+where actually not that fast and definitely not very angry.
+
+I moved at what i thought was a pretty good pace for a herd of cow and at first it was noisey and exciting.  Then the sound died and there was a lot of shouting from behind the cows.
+Turns out they had found a juicy patch of grass verge to munch on and the fron row had stopped dead forcing the ones at the bak to jump into the field.
+This happened to be one full of crops so that go my sister a little annoyed.
+
+Eventually we go them moving again and the ten or so that had jumped into the field were chased out of the field.  AT this point we turned the corner onto light house road.
+As I shot past the the entrance to the footpath that was protected by a cornish hedge I realised my 8 year old son had been left staioned in tha gap on his own as the others had gone to rescue the crop.
+
+
+
+
+
+        
+![Henry Ayres #getsouside with the cows]({{ site.image_url }}henryayres/getoutsidecows.jpg "Henry Ayres #getsouside with the cows")
+
+[&copy; Jakki Moores](https://www.instagram.com/p/BMETXBNji8b/){:target="_blank"}
+
+
+
+
+

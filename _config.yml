@@ -17,7 +17,7 @@ twitter_username: hayres
 github_username:  hayres
 facebook_username:  henryayres
 image_url: "/assets/images/"
-
+icon_image_url: "/assets/images/icons/"
 # Build settings
 markdown: kramdown
 

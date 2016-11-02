@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Resume MD
-permalink: /resumemd/
+title: Resume
+permalink: /resume/
 ---
 
 ## Henry John Ayres, CITP, Ba(Hons)
