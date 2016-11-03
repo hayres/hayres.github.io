@@ -1,11 +1,12 @@
 ---
 layout: post
 title:  "Running with the Bulls"
-date:   2016-10-28 08:42:30 +0100
-categories: blog update story
+date:   2016-11-02 20:53:30
+categories: blog update
 author: Henry Ayres
+thumbnail: "henryayres/getoutsidecows.jpg"
 ---
-When I was young I read Hemmingway's 1926 novel [Fiesta](https://en.wikipedia.org/wiki/The_Sun_Also_Rises) (published as _The sun Also Rises_ in the USA) in which he describes at length the [Running of the Bulls](https://en.wikipedia.org/wiki/Running_of_the_Bulls) in Pamplona.
+When I was young I read Hemmingway's 1926 novel [Fiesta](https://en.wikipedia.org/wiki/The_Sun_Also_Rises){:target="_blank"} (published as _The sun Also Rises_ in the USA) in which he describes at length the [Running of the Bulls](https://en.wikipedia.org/wiki/Running_of_the_Bulls){:target="_blank"} in Pamplona.
 
 The story revolves around a group of people that are having a pretty amazing time and as someone who already loved Spain and had spent quite a bit of time there I was intrigued by the romance of the whole event.  I was convinced that one day I would go there and take part.
 The novel also describes the bull fight that happens after.  I kind of skipped over much of that as I was not really sure about it then.  
@@ -42,8 +43,26 @@ I moved at what i thought was a pretty good pace for a herd of cow and at first 
 Turns out they had found a juicy patch of grass verge to munch on and the fron row had stopped dead forcing the ones at the bak to jump into the field.
 This happened to be one full of crops so that go my sister a little annoyed.
 
-Eventually we go them moving again and the ten or so that had jumped into the field were chased out of the field.  AT this point we turned the corner onto light house road.
-As I shot past the the entrance to the footpath that was protected by a cornish hedge I realised my 8 year old son had been left staioned in tha gap on his own as the others had gone to rescue the crop.
+Eventually we got them moving again and the ten or so that had jumped into the field were chased out of the field.  At this point we turned the corner onto light house road.
+As I shot past the the entrance to the footpath that was protected by a cornish hedge I realised my 8 year old 
+son had been left stationed in tha gap on his own as the others had gone to rescue the crop.
+
+It was a stand off that was only going to end with one winner as the very large full grown Hereford cross mooed loudly and advanced 
+on the trying to be brave 8 year old who was backing up into the footpath. Luckily he backed toward the lighthouse preventing the cows
+from going that way but as there was a heard of cow between myself and him there was nothing I could do to rescue him.
+ 
+Just then I saw Nevil the farm clear the hedge on the crops field and run up and over the hedge of the foorpath and come to his rescue.
+The cattle were shooed up the path and followed the others throught the gate.  We werent home and dry yet though as there
+was still 3 fields and a green lane for them to go through to reach the new pasture.
+ 
+Field 1 was a cinch. Field 2 also, well it was for us but the walkers and their dogs that had strayed of the footpath had a bit of a shock as a herd of 
+inquisitive cows came thundering through the field.  Luckily for them they made it through the gate and for a chenge remebered to shut it.
+The cows sttod and mooed frantically at them before we caught up and sent them through the final field and lane to the new pastures.
+Last I saw of them they were happily eating away at the new grass.
+
+We conlcuded activities with a walk bat to the car, it was a real family event with everyone taking part and a great chance to get outside.
+It is something you can do as well.  The national trust often provides voulenteers to [Tregullas Farm](http://www.tregullasfarm.co.uk){:target="_blank"} to help with moving cattle or fencing.
+The farm can do with all the help they can so go ahead and get involved.
 
 
 

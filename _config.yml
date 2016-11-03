@@ -21,6 +21,8 @@ icon_image_url: "/assets/images/icons/"
 # Build settings
 markdown: kramdown
 
+sass:
+  style: compressed
 
 exclude:
   - "node_modules/"

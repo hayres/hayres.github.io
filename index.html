@@ -15,8 +15,12 @@ layout: default
           <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
         </h2>
         Author: {{post.author}}<br/>
-        {{post.date}}
-        {{ post.content | truncatewords : 100}}
+
+        {% if post.thumbnail %}
+        <img src="{{ site.image_url }}/{{ post.thumbnail }}"/>
+        {% endif %}
+        {{ post.content | truncatewords : 100}}<br/>
+        <a  class="readmore" href="{{ post.url | prepend: site.baseurl }}">Read More</a>
       </li>
     {% endfor %}
   </ul>
