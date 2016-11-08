@@ -18,8 +18,8 @@ Of course it had also become less of a spectacle and more of a bunfight as thous
 
 So when I went to my sister's farm with my new found running prowess I had little idea it would lead to my own "running with the bulls" moment of glory.
 
-My sister and her husband farm the national trust farm on the end of Lizard point, about 250 acres of mixed arable and grazing land.  The grow crops and the grazing is stocked 
-with sheep and cows.  So the first day I was there is set of on a route that took in Kynance cove and then looped round past the lighthouse and back up the fields from Housal bay and home.
+My sister and her husband farm the National Trust farm on the end of Lizard point, about 250 acres of mixed arable and grazing land.  The grow crops and the grazing is stocked 
+with sheep and cows.  So the first day I was there I set of on a route that took in Kynance cove and then looped round past the lighthouse and back up the fields from Housal bay and home.
 About 7.5 kilometres in total.   
 
 
@@ -40,12 +40,12 @@ I was a little concerned at first, there were some big cattle with some big horn
 where actually not that fast and definitely not very angry.
 
 I moved at what i thought was a pretty good pace for a herd of cow and at first it was noisy and exciting.  Then the sound died and there was a lot of shouting from behind the cows.
-Turns out they had found a juicy patch of grass verge to munch on and the front row had stopped dead forcing the ones at the bak to jump into the field.
+Turns out they had found a juicy patch of grass verge to munch on and the front row had stopped dead forcing the ones at the back to jump into the field.
 This happened to be one full of crops so that go my sister a little annoyed.
 
 Eventually we got them moving again and the ten or so that had jumped into the field were chased out of the field.  At this point we turned the corner onto light house road.
 As I shot past the the entrance to the footpath that was protected by a cornish hedge I realised my 8 year old 
-son had been left stationed in tha gap on his own as the others had gone to rescue the crop.
+son had been left stationed in the gap on his own as the others had gone to rescue the crop.
 
 It was a stand off that was only going to end with one winner as the very large full grown Hereford cross mooed loudly and advanced 
 on the trying to be brave 8 year old who was backing up into the footpath. Luckily he backed toward the lighthouse preventing the cows
@@ -60,8 +60,8 @@ inquisitive cows came thundering through the field.  Luckily for them they made 
 The cows stood and mooed frantically at them before we caught up and sent them through the final field and lane to the new pastures.
 Last I saw of them they were happily eating away at the new grass.
 
-We concluded activities with a walk bat to the car, it was a real family event with everyone taking part and a great chance to get outside.
-It is something you can do as well.  The national trust often provides voulenteers to [Tregullas Farm](http://www.tregullasfarm.co.uk){:target="_blank"} to help with moving cattle or fencing.
+We concluded activities with a walk back to the car, it was a real family event with everyone taking part and a great chance to get outside.
+It is something you can do as well.  The National Trust often provides voulenteers to [Tregullas Farm](http://www.tregullasfarm.co.uk){:target="_blank"} to help with moving cattle or fencing.
 The farm can do with all the help they can so go ahead and get involved.
 
 
