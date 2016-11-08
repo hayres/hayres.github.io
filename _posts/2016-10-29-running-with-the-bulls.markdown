@@ -35,12 +35,12 @@ However, there are a number of things slightly different.
 * there was 47 mixed happy cattle instead of 6 very angry fighting bulls.
 * the cattle were just being moved to a new pasture. Not to the bullring for the nights entertainment.
 
-First we rounded the cattle uyp to the top of the lighthouse field.  Then at the appropriate moment the gates were swung open an I started running down the road toward the new field.
+First we rounded the cattle up to the top of the lighthouse field.  Then at the appropriate moment the gates were swung open an I started running down the road toward the new field.
 I was a little concerned at first, there were some big cattle with some big horns, but it soon transpired that they 
 where actually not that fast and definitely not very angry.
 
-I moved at what i thought was a pretty good pace for a herd of cow and at first it was noisey and exciting.  Then the sound died and there was a lot of shouting from behind the cows.
-Turns out they had found a juicy patch of grass verge to munch on and the fron row had stopped dead forcing the ones at the bak to jump into the field.
+I moved at what i thought was a pretty good pace for a herd of cow and at first it was noisy and exciting.  Then the sound died and there was a lot of shouting from behind the cows.
+Turns out they had found a juicy patch of grass verge to munch on and the front row had stopped dead forcing the ones at the bak to jump into the field.
 This happened to be one full of crops so that go my sister a little annoyed.
 
 Eventually we got them moving again and the ten or so that had jumped into the field were chased out of the field.  At this point we turned the corner onto light house road.
@@ -51,16 +51,16 @@ It was a stand off that was only going to end with one winner as the very large 
 on the trying to be brave 8 year old who was backing up into the footpath. Luckily he backed toward the lighthouse preventing the cows
 from going that way but as there was a heard of cow between myself and him there was nothing I could do to rescue him.
  
-Just then I saw Nevil the farm clear the hedge on the crops field and run up and over the hedge of the foorpath and come to his rescue.
-The cattle were shooed up the path and followed the others throught the gate.  We werent home and dry yet though as there
+Just then I saw Nevil the farm clear the hedge on the crops field and run up and over the hedge of the footpath and come to his rescue.
+The cattle were shooed up the path and followed the others through the gate.  We were not home and dry yet though as there
 was still 3 fields and a green lane for them to go through to reach the new pasture.
  
 Field 1 was a cinch. Field 2 also, well it was for us but the walkers and their dogs that had strayed of the footpath had a bit of a shock as a herd of 
-inquisitive cows came thundering through the field.  Luckily for them they made it through the gate and for a chenge remebered to shut it.
-The cows sttod and mooed frantically at them before we caught up and sent them through the final field and lane to the new pastures.
+inquisitive cows came thundering through the field.  Luckily for them they made it through the gate and for a change remembered to shut it.
+The cows stood and mooed frantically at them before we caught up and sent them through the final field and lane to the new pastures.
 Last I saw of them they were happily eating away at the new grass.
 
-We conlcuded activities with a walk bat to the car, it was a real family event with everyone taking part and a great chance to get outside.
+We concluded activities with a walk bat to the car, it was a real family event with everyone taking part and a great chance to get outside.
 It is something you can do as well.  The national trust often provides voulenteers to [Tregullas Farm](http://www.tregullasfarm.co.uk){:target="_blank"} to help with moving cattle or fencing.
 The farm can do with all the help they can so go ahead and get involved.
 
