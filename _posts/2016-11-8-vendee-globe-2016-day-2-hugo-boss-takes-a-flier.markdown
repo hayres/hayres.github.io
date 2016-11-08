@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Day 2 Vendee Globe 2016"
+title:  "Vendee Globe 2016 Day 2 - Hugo Boss takes a flier"
 date:   2016-11-08 08:00:30
 categories: blog update
 author: Henry Ayres
