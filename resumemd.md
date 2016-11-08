@@ -1,7 +1,7 @@
 ---
-layout: page
-title: Resume MD
-permalink: /resumemd/
+layout: post
+title: Resume
+permalink: /resume/
 ---
 
 ## Henry John Ayres, CITP, Ba(Hons)
@@ -59,7 +59,7 @@ Manage development of a publishing platform to enable our content across differe
 Hands on coding of SOLR search platform using same platform for stats delivery.<br/>
 Lead AngloINFO through PCI DSS 2.0 SAQ D Compliance.<br/>
 
-### IT Mamangement consutlant: Various Assignments
+### IT Management consultant: Various Assignments
 
 #### Jun 2008 to  Feb 2010
 
@@ -81,7 +81,7 @@ Established a web-based portal for the retail / consumer sale of single phase UP
 
 #### Jan 2006 to May 2008
 
-RResponsible for strategic IT, technology & product management within an educational sector business
+Responsible for strategic IT, technology & product management within an educational sector business
 
 Appointed as Chief Architect & Head of Product Technologies, reporting to the CTO.<br/>
 Focused on delivering key enhancements to the hosting service of major online products and services.<br/>
@@ -98,7 +98,7 @@ Led definition of an eProduct technology strategy, communicating to board and in
 Acted as CTO product division during sale and merger of Harcourt and Pearson.<br/>
 
 
-### Head of assement Technologies: Harcourt Education
+### Head of assessment Technologies: Harcourt Education
 
 #### 2004 to Dec 2005
 

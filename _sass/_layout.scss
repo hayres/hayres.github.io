@@ -182,7 +182,13 @@
     > li {
         margin-bottom: $spacing-unit;
     }
+    img{
+        float: left;
+        padding-right: 10px;
+        width: 100px;
+    }
 }
+
 
 .post-meta {
     font-size: $small-font-size;
@@ -239,4 +245,7 @@
             font-size: 18px;
         }
     }
+}
+.readmore {
+    float: right;
 }
