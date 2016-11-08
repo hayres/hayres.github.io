@@ -22,7 +22,7 @@ icon_image_url: "/assets/images/icons/"
 markdown: kramdown
 
 sass:
-  style: compressed
+   style: compressed
 
 exclude:
   - "node_modules/"

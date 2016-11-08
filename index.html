@@ -17,7 +17,7 @@ layout: default
         Author: {{post.author}}<br/>
 
         {% if post.thumbnail %}
-        <img src="{{ site.image_url }}/{{ post.thumbnail }}"/>
+        <img src="{{ post.thumbnail | prepend: site.image_url}}"/>
         {% endif %}
         {{ post.content | truncatewords : 100}}<br/>
         <a  class="readmore" href="{{ post.url | prepend: site.baseurl }}">Read More</a>
