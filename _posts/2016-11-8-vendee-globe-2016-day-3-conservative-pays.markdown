@@ -1,34 +1,44 @@
 ---
 layout: post
-title:  "Vendee Globe 2016 Day 3 - Conservatism Pays"
-date:   2016-11-09 16:45:00
+title:  "Vendee Globe 2016 Day 4 - The Rich get richer"
+date:   2016-11-10 09:09:00
 categories: blog update
 author: Henry Ayres
-thumbnail: "vendeeglobe/vendeeday3-1400.png"
+thumbnail: "vendeeglobe/vendeeday4-0909.png"
 ---
 
-Day 3 of the [Vendee Globe](http://www.vendeeglobe.org/en){:target="_blank"} and Brit [Alex Thomson](http://www.alexthomsonracing.com/) 
-has been pulled back into the pack after his gamble to the left of the course did not pay.
+Day 4 of the [Vendee Globe](http://www.vendeeglobe.org/en){:target="_blank"} and Brit [Alex Thomson](http://www.alexthomsonracing.com/) 
+is suffering from his gybe toward the Portugal.
 
-It is often true on an inshore course that taking a flyer to one side or other of the course can lead to a huge lead.
-I lucked out in a RYA Finn qualifier once where a bit of inland experience and a pun on the wrong end of the line put me 10 boat lengths ahead at the windward mark.  
-However trying this out on the ocean can lead to being in the wrong weather system.  Or even on the other less favourable side.  So maybe it is best to stay conservative when the stakes are so high.
+Although at the time it looked like a good move, once the forecast changed the short term gains have turned into big losses.
+It ws a suprise when Boss gybed away from the drag race to the Canaries and Alex ended up in the kind of nomanes land where you just drift back into the same area of the rest of the fleet but behind the leader.
+If he had stuck at it he would be in far stronger winds with a great angle that would see boatspeeds of 20kts +.  Instead sadly he is playing catch up with proabbly the need to make a big race winning move later on.  
+This also means pushing harder which with these boats could end in breakages.
+ 
+In the meantime the race leaders are getting into the better wind and starting to heat up the speed.  The rich get richer.
 
-In terms of a long ocean leg of the course the flyer could only go as far as the Portugease coast so it was impossible to get the other side of the 
-weather system then ride it further down the track aft er gybing back the other way.  But of course Boss had to gybe as there was land in the way.
+I did consider who is Hugo Boss weather router.  And then I thought "Hang on, are they even allowed routers". And guess what.  Weather routing is **strictly prohibited**.  
+So the skipper has to do it all by themselves with the information that is publically avaliabel to everyone.  
 
-The punt worked in the short term with Alex pulling ahead but as the last 24 hour have played out he has lost the wind more quickly and not had such a favourable angle.  
-A steady decent through the places to 8th is the result.  
+It reminds me of the time we had a router in the Middle Sea Race.  
+He was sending us emails via the sat phone with custom gribs attached.  But I could not get them to load into our Nav pacakage.  
+It was only when we finished and I had time and a stable platform to look at it and relised when I panned out that the gribs files worked.  The were just for the wrong place by about 300 miles.
+  
+  
 
-However, I suggest there may be a more long term strategy in play and that the gybe east was the first move in the game of being furhest east
-when the trade winds start nearer the Canaries.  It is true also that if you look at the tracker Hugo Boss is pretty much level with Banque Populaire although the 
-great circle nature of the route puts him 30.8nm behind.  
+Our two men at the back of the fleet have taken some places and kept more left than any body else.  They clearly are banking on leaving Maderia to port and sailing into the strong winds closer to the coast.
+Their gains will not be as big in the older previous generation boats as they dont have the modern tech foils to help with the top speeds but they should quickly rise up the ranking as they pick up speeds.
+One Planet One Ocean is stin in les Sables d’Olonne where it sounds like all of its electronics are being replaced before a restart.
 
-As flyers go Pieter Heerma and Enda O'Coineen back in 25th and 26th are perfectly placed to take advantage of the wind on the left hand side of the track. 
-The should move up a few places but that close to Africa could raise the spectre of pirates.
+**Update 12:30**  
 
-Time will only tell on this one.
+As off 11:00UTC position report it is clear that Hugo Boss is now in the second group of boats (see second image below).  It is going to take something very special to close the gap and get ahead but if any one can pull it out of the bag Alex Thomson can. 
 
-![Vendee Tracker day 3 morning]({{ site.image_url }}vendeeglobe/vendeeday3-1400.png "Vendee Tracker day 3")
+![Vendee Tracker day 4 morning]({{ site.image_url }}vendeeglobe/vendeeday4-0909.png "Vendee Tracker day 4")
 
 [&copy;Vendee Globe 2016](http://tracking2016.vendeeglobe.org/hp5ip0/){:target="_blank"}
+
+![Vendee Tracker day 4 1100UTC]({{ site.image_url }}vendeeglobe/vendeeday4-1100.png "Vendee Tracker day 4")
+
+[&copy;Vendee Globe 2016](http://tracking2016.vendeeglobe.org/hp5ip0/){:target="_blank"}
+
