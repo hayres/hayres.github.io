@@ -12,7 +12,7 @@ is suffering from his gybe toward the Portugal.
 
 Although at the time it looked like a good move, once the forecast changed the short term gains have turned into big losses.
 It was a surprise when Boss gybed away from the drag race to the Canaries and Alex ended up in the kind of no mans land where you just drift back into the same area of the rest of the fleet but behind the leader.
-If he had stuck at it he would be in far stronger winds with a great angle that would see boatspeeds of 20kts +.  Instead sadly he is playing catch up with proabbly the need to make a big race winning move later on.  
+If he had stuck at it he would be in far stronger winds with a great angle that would see boat speeds of 20kts +.  Instead sadly he is playing catch up with proabbly the need to make a big race winning move later on.  
 This also means pushing harder which with these boats could end in breakages.
  
 In the meantime the race leaders are getting into the better wind and starting to heat up the speed.  The rich get richer.
