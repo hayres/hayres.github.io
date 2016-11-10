@@ -27,7 +27,7 @@ It was only when we finished and I had time and a stable platform to look at it 
   
 
 Our two men at the back of the fleet have taken some places and kept more left than any body else.  They clearly are banking on leaving Madeira to port and sailing into the strong winds closer to the coast.
-Their gains will not be as big in the older previous generation boats as they dont have the modern tech foils to help with the top speeds but they should quickly rise up the ranking as they pick up speeds.
+Their gains will not be as big in the older previous generation boats as they don't have the modern tech foils to help with the top speeds but they should quickly rise up the ranking as they pick up speeds.
 One Planet One Ocean is stin in les Sables d’Olonne where it sounds like all of its electronics are being replaced before a restart.
 
 **Update 12:30**  
