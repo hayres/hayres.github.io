@@ -8,7 +8,7 @@ thumbnail: "vendeeglobe/vendeeday5-1400.png"
 --- 
 
 
-Day 5 off the [Vendee Globe](http://www.vendeeglobe.org/en){:target="_blank"} and [Thomson](http://www.alexthomsonracing.com/) has lit the after burners and is pedal to the metal after yesterday admitting his mistake of day 2.
+Day 5 of the [Vendee Globe](http://www.vendeeglobe.org/en){:target="_blank"} and [Thomson](http://www.alexthomsonracing.com/) has lit the after burners and is pedal to the metal after yesterday admitting his mistake of day 2.
 
 With the leading boats firmly into the trades the lead pair are making gains on group 2. The freshening wind has allowed Alex Thomson to wring out more speed at a great wind angle to leap from 8th to 3rd in 1 sched.  Boss’s metrics on the tracker show her traveling at 20kts, faster than all the other boats on the race track.
 
