@@ -7,7 +7,7 @@ author: Henry Ayres
 thumbnail: "vendeeglobe/vendeeday5-1700.png"
 --- 
 
-Long Distance Yacht Single handed offshore racing is boring, **said no one EVER!!**
+Long Distance Single handed offshore racing is boring, **said no one EVER!!**
 
 As of the 1700UTC sched report [Alex](http://www.alexthomsonracing.com/) continues to eat away at the gap to the lead pair 
 and still shows consistently faster speeds than the rest of the fleet.
