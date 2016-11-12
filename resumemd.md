@@ -2,6 +2,10 @@
 layout: post
 title: Resume
 permalink: /resume/
+sitemap:
+    priority: 1.0
+    changefreq: 'monthly'
+    lastmod: 2016-11-12T09:00:30-00:00
 ---
 
 ## Henry John Ayres, CITP, Ba(Hons)
