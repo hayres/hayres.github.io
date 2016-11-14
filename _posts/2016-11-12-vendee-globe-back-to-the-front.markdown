@@ -7,7 +7,7 @@ author: Henry Ayres
 thumbnail: "vendeeglobe/vendeeday6-1700.png"
 --- 
 
-I predicted yesterday that within 24 hours  [Alex Thomosn](http://www.alexthomsonracing.com/) aboard Hugo Boss would be up to second place in the Vendee Globe.
+I predicted yesterday that within 24 hours  [Alex Thomson](http://www.alexthomsonracing.com/) aboard Hugo Boss would be up to second place in the Vendee Globe.
 I was wrong but I am glad to report that is because he is one better in in first place.
 
 If the last 24 hours has show us anything is that the Sailor / Boat combination of Alex Thomson and Hugo Boss is incredibly fast.

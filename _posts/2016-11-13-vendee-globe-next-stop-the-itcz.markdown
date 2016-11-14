@@ -7,7 +7,7 @@ author: Henry Ayres
 thumbnail: "vendeeglobe/vendeeday7-1700.png"
 --- 
 
-[Alex Thomosn](http://www.alexthomsonracing.com/) continues his relentless charge south in the 2016 Vendee Globe
+[Alex Thomson](http://www.alexthomsonracing.com/) continues his relentless charge south in the 2016 Vendee Globe
 but he will soon be slowing up as he enters The Inter Tropical Convergence Zone (ITCZ).
 
 Better known to most as the Doldrums it is the area of light winds where the north east trade winds north of the equator meet the south east trade winds to the south.
