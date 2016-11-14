@@ -45,4 +45,4 @@ The next 24 hours will be make or break for many campaigns.  Keep tuned to the t
 
 
 
-More about the [Inter Tropical Conversion Zone](https://en.wikipedia.org/wiki/Intertropical_Convergence_Zone){:target="_blank"}
+More about the [Inter Tropical Convergence Zone](https://en.wikipedia.org/wiki/Intertropical_Convergence_Zone){:target="_blank"}

@@ -18,12 +18,18 @@ Alex confessed to a moment of madness that saw him gybing toward Portugal on Day
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ShpGeDQVSXI" frameborder="0" allowfullscreen></iframe>
 
+&nbsp; 
+&nbsp; 
+
 Sleep and rest is a key area that he will need to manage in the charge down the Atlantic.  With the need to keep the speed high he also must balance this with getting good rest as he will need to be really on his game when they start the approach to the Doldrums.  This is about 2 days away at current pace of 420nm + per day.
 
 Further back the pack are settling into their routines.  Our two rear markers that attacked the African coast have now chosen different approaches. Peter Heerema has bottled it an chosen the western track around the Canaries.  However, Enda O’Coineen has stuck to the Coast of Morocco, which for me is a super effort to try something different. He has risen to 21 and may have better wind and a better angle.  He is committed that is for sure.  Lets see if it pans out and he can close the gap toward the top 10.
 
 The lanterne rouge is now back at sea.  It is typical in this sort of ocean racing that the other teams rallied round to get him back on the race track.  I get the feeling that if you are good enough to make it to the start line then La famille Vendée Globe think you are worth putting back to sea to complete the challenge of a solo circumnavigation 
 
+
+
 ![Vendee Tracker day 5]({{ site.image_url }}vendeeglobe/vendeeday5-1400.png "Vendee Tracker day 5")
 
 [&copy;Vendee Globe 2016](http://tracking2016.vendeeglobe.org/hp5ip0/){:target="_blank"}
+
