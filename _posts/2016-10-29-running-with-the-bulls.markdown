@@ -3,6 +3,7 @@ layout: post
 title:  "Running with the Bulls"
 date:   2016-11-02 20:53:30
 categories: blog update
+tags: [getoutside,farming,family,sport]
 author: Henry Ayres
 thumbnail: "henryayres/getoutsidecows.jpg"
 ---

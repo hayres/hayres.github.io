@@ -3,6 +3,7 @@ layout: post
 title:  "Vendee Globe 2016 Day 4 - The rich get richer"
 date:   2016-11-10 09:09:00
 categories: blog update
+tags: [sailing,vendeeglobe]
 author: Henry Ayres
 thumbnail: "vendeeglobe/vendeeday4-0909.png"
 ---

@@ -3,6 +3,7 @@ layout: post
 title:  "Vendee Globe 2016 Day 3 - Conservatism Pays"
 date:   2016-11-09 16:45:00
 categories: blog update
+tags: [sailing,vendeeglobe]
 author: Henry Ayres
 thumbnail: "vendeeglobe/vendeeday3-1400.png"
 ---

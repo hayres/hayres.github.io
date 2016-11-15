@@ -3,6 +3,7 @@ layout: post
 title: "Vendee Globe 2016 Day 8 - Master Tactician?"
 date:   2016-11-14 08:00:00
 categories: blog update vendeeglobe
+tags: [sailing,vendeeglobe]
 author: Henry Ayres
 thumbnail: "vendeeglobe/vendeeday8-0800.png"
 --- 

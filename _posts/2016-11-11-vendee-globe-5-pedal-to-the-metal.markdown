@@ -3,6 +3,7 @@ layout: post
 title: "Vendee Globe 2016 Day 5 - Pedal to the Metal"
 date:   2016-11-11 16:00:00
 categories: blog update vendeeglobe
+tags: [sailing,vendeeglobe]
 author: Henry Ayres
 thumbnail: "vendeeglobe/vendeeday5-1400.png"
 --- 

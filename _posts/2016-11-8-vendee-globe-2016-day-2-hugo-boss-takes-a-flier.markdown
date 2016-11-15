@@ -3,6 +3,7 @@ layout: post
 title:  "Vendee Globe 2016 Day 2 - Hugo Boss takes a flier"
 date:   2016-11-08 08:00:30
 categories: blog update
+tags: [sailing,vendeeglobe]
 author: Henry Ayres
 thumbnail: "vendeeglobe/vendeeday2-0730.png"
 ---
