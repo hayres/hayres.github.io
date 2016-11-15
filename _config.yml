@@ -28,5 +28,8 @@ exclude:
   - "node_modules/"
   - "package.json"
   - "Gruntfile.js"
+# Gems
+gems: [jekyll-paginate]
 
+paginate: 5
 
