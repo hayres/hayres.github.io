@@ -22,7 +22,8 @@ The New Foiling wings that these boats carry are much more horizontal on Hugo Bo
 In fact PRB has no foiling type foils but normal dagger boards.  This gives them much more lift in the conditions that they have been sailing in but no help at all
 when the boats speed drops to below 10kts.  Whatch the excellent interview at the end of this post to find out more.
  
-
+By the 0800UTC report the dust had somewhat settled and the lead was steady at about 60nm over the second 2 boats.  It looks as though they had a good passage as well.
+I expect Thomsons lead to grow over the next 24 hours as he arrives to the increasing wind first.
 
  
  
