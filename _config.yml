@@ -12,7 +12,7 @@ description: > # this means to ignore newlines until "baseurl:"
     A blog about sporting activities, life experiences and professional musings of Henry Ayres.
      Recently someone told me I should write a book of my experiences.  Perhaps this is the precursor to that?
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://henryayres.co.uk" # the base hostname & protocol for your site
+url: "https://www.henryayres.co.uk" # the base hostname & protocol for your site
 twitter_username: hayres
 github_username:  hayres
 facebook_username:  henryayres
