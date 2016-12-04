@@ -40,6 +40,6 @@ little sportsmanship is par for the course.
 
 ![Vendee Tracker day 20 0400UTC]({{ site.image_url }}vendeeglobe/vendeeday20-0400.png "Vendee Tracker day 20 0400UTC")
 
-[&copy;Vendee Globe 2016](http://tracking2016.vendeeglobe.org/hp5ip0/){:target="_blank" itemprop="copyrightHolder"}
+[&copy;Vendee Globe 2016](http://tracking2016.vendeeglobe.org/hp5ip0/){:target="_blank" }
 
 

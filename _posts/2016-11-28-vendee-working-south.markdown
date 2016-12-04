@@ -26,6 +26,6 @@ to replace. Believe what you will!!
 
 ![Vendee Tracker day 22 21UTC]({{ site.image_url }}vendeeglobe/vendeeday22-2100.png "Vendee Tracker day 22 2100UTC")
 
-[&copy;Vendee Globe 2016](http://tracking2016.vendeeglobe.org/hp5ip0/){:target="_blank" itemprop="copyrightHolder"}
+[&copy;Vendee Globe 2016](http://tracking2016.vendeeglobe.org/hp5ip0/){:target="_blank"}
 
 

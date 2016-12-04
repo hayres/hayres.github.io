@@ -50,6 +50,6 @@ A time of 126 Days 23 hours and 36 minutes.  Two other competitors were still to
 
 ![Vendee Tracker day 16 2100UTC]({{ site.image_url }}vendeeglobe/vendeeday16-2100.png "Vendee Tracker day 16 2100UTC")
 
-[&copy;Vendee Globe 2016](http://tracking2016.vendeeglobe.org/hp5ip0/){:target="_blank" itemprop="copyrightHolder"}
+[&copy;Vendee Globe 2016](http://tracking2016.vendeeglobe.org/hp5ip0/){:target="_blank"}
 
 
