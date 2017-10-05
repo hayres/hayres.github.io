@@ -1,14 +1,14 @@
 ---
 layout: page
-title: Resume
-permalink: /resume/
+title: Résumé
+permalink: /résumé/
 sitemap:
     priority: 1.0
     changefreq: 'monthly'
     lastmod: 2017-02-12T22:55:30-00:00
 ---
 
-## Henry John Ayres, CITP, Ba(Hons)
+## Henry John Ayres,  Ba(Hons)
 
 **Phone: 01590 718200 •  Mobile: 07971 670374 • Email:** [hayres@zeriba.co.uk](mailto:hayres@zeriba.co.uk)
 
