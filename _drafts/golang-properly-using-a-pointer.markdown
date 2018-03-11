@@ -12,14 +12,14 @@ thumbnail: ""
 It is no secret that my background is 20 years of web scripting using ASP, PHP, Perl, Javascript and others.
 So moving into software development using golang was going to be a learning curve in some areas.  
 
-I knew about pointers from c and c++. But I never really undrstood or used them.
+I knew about pointers from C and C++ and other compiled 3gl langauages. But I never really undrstood or used them.
 
 Taking over the manangement of a code bas that extensivly uses pointers was a chance to learn what it was all about.   However, it was not until i got to the point where i had to write my own code the penny really dropped and I got to learn something.
 
 The problem i had was that I had to selecta preset variable depending on the contents of a variable in a query string.
 
 
-```
+```go
 var (
 	selectActivitiesQueryDesc = namedQuery{
 		Name: "select-activities-desc",
