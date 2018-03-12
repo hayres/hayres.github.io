@@ -29,7 +29,7 @@ exclude:
   - "package.json"
   - "Gruntfile.js"
 # Gems
-gems: [jekyll-paginate]
+plugins: [jekyll-paginate]
 
 paginate: 5
 
