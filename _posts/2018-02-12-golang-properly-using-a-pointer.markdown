@@ -7,9 +7,6 @@ tags: [general,technology,software,engineering,golang]
 author: Henry Ayres
 thumbnail: ""
 ---
- 
-
-
 It is no secret that my background is 20 years of web scripting using ASP, PHP, Perl, Javascript and others.
 So moving into software development using golang was going to be a learning curve in some areas.  
 
@@ -17,8 +14,7 @@ I knew about pointers from C and C++ and other compiled 3gl. But I never really 
 
 Taking over the management of a code base that extensively uses pointers was a chance to learn what it was all about.   However, it was not until I got to the point where I had to write my own code the penny really dropped and I got to learn something.
 
-The problem (opportunity) I had was that I had to select a preset variable depending on the contents of a variable provided by a query string.  
-The variables are of the complex type that hold two keys Name and Query and their corresponding values.
+The problem (opportunity) I had was that I had to select a preset variable depending on the contents of a variable provided by a query string. The variables are of the complex type that hold two keys Name and Query and their corresponding values.
 
 Using the operator & generates a point to its operand (thats straight off of golang.org).
 
@@ -70,18 +66,9 @@ func (connection *CentralDBConnection) GetActivities(orderBy string, page int, n
 }
 {% endhighlight %}
 
-
 Without useing a pointer I cannot easily switch between the two complex variables and nicely pass them to the method.
 
 It is also true that you have to create the pointer first at line 21. If you try to create it within the conditional IF / ELSE then the linter just bleats that `query` is undefined and you cannot compile the program.
 
-
 More information here on golang.org.
 [A Tour of Go - Pointers - https://tour.golang.org/moretypes/1](https://tour.golang.org/moretypes/1){:target="_blank"}
-
-        
-
-
-
-
-
