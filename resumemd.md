@@ -22,9 +22,22 @@ Henry has shown the ability to generate enthusiasm around his projects, and is p
 
 ## Professional Experience
 
+### Senior Software Engineer
+   
+#### November 2017 to May 2018
+
+Working in the tech group responsible for the next gen software implementation of Switch Concepts tech stack.  Writing the key API platform in GoLang.  Switch Concepts software handles 9 billion ad actions per month.
+* GoLang for all core platforms including database layer and API.  PHP for legacy systems.
+* MySQL as the data layer to drive all information
+* Google Big Query to store large data sets of log level ad auction data
+* API delivery using most recent state of the art techniques
+* Google cloud service, gitlab, terraform and to deliver continuous integration
+
+
+
 ### Technical Consultant Specialist: Ordnance Survey 
    
-#### March 2015 to Date
+#### March 2015 to November 2017
 
 * Technical Consultant Specialist for Magento/PHP development. I am responsible for the day to day delivery, strategy and future development of the Magento ecommerce platform that forms a back bone of the OS user experience.
 * Technical Consultant on web technologies and implementation in a modern environment
