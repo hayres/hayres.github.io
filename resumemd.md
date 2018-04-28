@@ -12,11 +12,11 @@ sitemap:
 
 **Phone: 01590 718200 •  Mobile: 07971 670374 • Email:** [hayres@zeriba.co.uk](mailto:hayres@zeriba.co.uk)
 
-A hands on technology leader with a proven track record in web, e-commerce, applications and web technologies in local, regional and global platforms. Henry has been responsible for a technology portfolio of £16M in revenue and has led on contract negotiations of up to £1.5M.
+A hands on technology leader with a proven track record in e-commerce, application and web technologies in local, regional and global platforms. 
 
 Henry is an expert in High Availability, High Traffic, Scalable, and Low Latency delivery of dynamic content and services. He is adept at using the technical aspects of cloud, open source and diverse development techniques to deliver solutions on time and to budget.
 
-With solid leadership skills and an advocate of the Agile development environment Henry has acted as chief architect and lead developer and is able to form a clear vision of how the technology stack should look. He has delivered a number of technical strategies and strategy reviews.
+With solid leadership skills and an advocate of the Agile development environment Henry has acted as chief architect and lead developer and is able to form a clear vision of how the technology stack should look. He has delivered a number of technical strategies and strategic reviews.
 
 Henry has shown the ability to generate enthusiasm around his projects, and is particularly good at communicating with non-technical stakeholders. He engages very well with strategic partners, and is a good ambassador for any company and technology he is involved with.
 

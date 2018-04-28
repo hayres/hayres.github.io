@@ -21,10 +21,11 @@ layout: default
   }
  }
 </script>
+<script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
 <div class="home">
 
   <h1 class="page-heading">Posts</h1>
-
+  {% assign myi = 0 %}
   <ul class="post-list">
     {% for post in paginator.posts  %}
       <li>
@@ -41,7 +42,12 @@ layout: default
         {{ post.content | truncatewords : 100}}<br/>
         <a  class="readmore" href="{{ post.url | prepend: site.baseurl }}">Read More</a>
       </li>
-    {% endfor %}
+
+      {% if myi == 0 %}
+      <div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="horizontal" data-theme="light" data-vanity="henryayres"><a class="LI-simple-link" href='https://uk.linkedin.com/in/henryayres?trk=profile-badge'>Henry Ayres</a></div>
+       {% assign myi = 1 %}
+      {% endif%}
+      {% endfor %}
   </ul>
 
 
