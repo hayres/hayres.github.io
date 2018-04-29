@@ -22,7 +22,7 @@ Henry has shown the ability to generate enthusiasm around his projects, and is p
 
 ## Professional Experience
 
-### Senior Software Engineer
+### Senior Software Engineer: Switch concepts
    
 #### November 2017 to May 2018
 
