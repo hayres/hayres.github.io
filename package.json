@@ -1,8 +1,26 @@
 {
-  "name": "my-project-name",
+  "name": "henryayres.co.uk",
   "version": "0.1.0",
   "devDependencies": {
     "grunt": "^0.4.5",
-    "grunt-ssh-deploy": "~0.4.1"
-  }
+    "grunt-ssh-deploy": "^0.4.1"
+  },
+  "description": "Personal website",
+  "main": "Gruntfile.js",
+  "dependencies": {
+    "grunt-rsync": "^2.0.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hayres/hayres.github.io.git"
+  },
+  "author": "Henry Ayres",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hayres/hayres.github.io/issues"
+  },
+  "homepage": "https://github.com/hayres/hayres.github.io#readme"
 }
