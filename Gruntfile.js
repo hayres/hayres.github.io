@@ -29,7 +29,7 @@ module.exports = function (grunt) {
                 options: {
                     src: "_site",
                     dest: "/var/www/henryayres.co.uk",
-                    host: "henryayres.co.uk",
+                    host: "hayres@henryayres.co.uk",
                     delete: true // Careful this option could cause data loss, read the docs!
                 }
             }
