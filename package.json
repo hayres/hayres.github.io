@@ -1,10 +1,6 @@
 {
   "name": "henryayres.co.uk",
   "version": "0.1.0",
-  "devDependencies": {
-    "grunt": "^1.1.0",
-    "grunt-ssh-deploy": "^0.4.1"
-  },
   "description": "Personal website",
   "main": "Gruntfile.js",
   "dependencies": {
