@@ -17,12 +17,12 @@ Les Sables-d'Olonne with a broken masthead where they will retire.  There has be
 apart from a few crunched ribs and banged heads.
 
 That all changed yesterday when Bertrand de Broc on MACSF retired after diving on his hull to see what damage had
-been caused in a collision off the Portuguese .  It is reported that a large delaminated piece of material was hanging from his
+been caused in a collision off the Portuguese .  It has been reported that a large delaminated piece of material was hanging from his
 hull causing vibration and a noise so loud that he could still hear it through noise canceling headphones.
  
 Also yesterday British Race favourite [Alex Thomson's](http://www.alexthomsonracing.com/){:target="_blank"} luck ran out when he hit something in the
 water that has destroyed his starboard foil. The scheds over the next few hours showed him lose a 50nm chunk of the lead he had ground out
-over the past couple of days.  Currently he is retaining the lead. Just.
+over the past couple of days.  Currently, he is retaining the lead. Just.
 
 Those of you that watched the video I posted the other day where Hugo Boss engineering director
 Ross Daniel talked about the foils you may remember he suggested that the boat would lose only a small

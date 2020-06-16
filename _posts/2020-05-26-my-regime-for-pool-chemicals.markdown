@@ -2,8 +2,8 @@
 layout: post
 title:  "My regime for pool and hot tub chemicals"
 date:   2020-05-26   06:00:00
-categories: blog swimming pool chemcicals heatpump sand-filter
-tags: [general,swimming-pool,chemicals,heatpump,filter,DIY]
+categories: swimming pool
+tags: [general,swimming-pool,chemicals,heatpump,filter,DIY,pool-hacks,hot-tub-hacks]
 author: Henry Ayres
 thumbnail: "pool/pool.jpg"
 ---
@@ -16,6 +16,11 @@ the normal amount the instructions tell you for the litres of water that you hav
 If you don't know the volume of your pool the calculation is pi x Radius<sup>2</sup> x Height.
 
 To make the daily grind easy I use a floating dispenser with chlorine tablets.  
+
+<strong>Edit:</strong> I am actually using a multi function Chlorine tablet that contains Sanitiser, Stabiliser, Algaecide and Clarifier. 
+
+These work well in the pool but were not at all good in the hot tub.
+
 I test every day until I know that I have the release of chemicals at the correct rate then test 2 or 3 times a week. 
 I use the pH+ and pH- when the testing kit indicates that the pH levels are out of the correct range.
 
